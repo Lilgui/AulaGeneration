@@ -1,2 +1,2 @@
 # AulaGeneration
-Aulas desenvolvidas no curso da generation
+Estudos desenvolvidos no curso da Generation Brasil
